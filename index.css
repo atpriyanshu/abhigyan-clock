@@ -3,5 +3,6 @@ body {
   display: grid;
   place-content: center;
   font-family: system-ui, sans-serif;
+  text-align: center;
 }
 
